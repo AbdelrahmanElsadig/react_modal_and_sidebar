@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_modal_and_sidebar/static/css/main.842e1a38.css",
+    "main.js": "/react_modal_and_sidebar/static/js/main.75f45dd6.js",
+    "index.html": "/react_modal_and_sidebar/index.html",
+    "main.842e1a38.css.map": "/react_modal_and_sidebar/static/css/main.842e1a38.css.map",
+    "main.75f45dd6.js.map": "/react_modal_and_sidebar/static/js/main.75f45dd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.842e1a38.css",
+    "static/js/main.75f45dd6.js"
+  ]
+}
